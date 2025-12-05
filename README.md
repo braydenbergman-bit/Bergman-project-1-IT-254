@@ -2,17 +2,21 @@
 
 Our project is we are creating a simple home security system that has face detection and will open a door if the person detected is accpeted and is apart of that home. If the person detected is not apart of that home, then the door will not open for them. This takes away the need for keys or having to remember passcodes that can be guessed.
 
+
 This project was made with these other collaborators
 
-MattLyjak-bit
+[MattLyjak-bit]
+
 
 Hardware used
 
 We used a 3d printed door model that we got from Tinkercad. We also used the Ardunio Mega 2560 keypad with a motor connected to the door to open and close it. For the face detection we used the teachable machine in colab and used our cameras on our computers.
 
+
 Instructions
 
 Required hardware to make this work: -VSCode -Python 3.11 -Ardunio -Ardunio mega 2560 keypad - Audrino motor -small 3d printed door created using Tinkercad -Teachable machine -web cam
+
 
 Getting the door to work
 
